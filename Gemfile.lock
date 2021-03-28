@@ -13,7 +13,7 @@ GEM
       ffi (~> 1.0, >= 1.0.11)
     commonwatir (4.0.0)
     diff-lcs (1.2.5)
-    ffi (1.9.6)
+    ffi (1.15.0)
     firewatir (1.9.4)
       commonwatir (>= 1.9.2)
     hoe (3.13.0)
